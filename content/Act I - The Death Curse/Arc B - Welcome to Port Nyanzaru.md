@@ -1,0 +1,9 @@
+*Play Music*
+
+You appear in a tropical city under the blazing sun. The familiar sounds of a harbour – creaking ropes, slapping waves, and heavy barrels rolling across cobblestones – mingle with the voices shouting and cursing in an unfamiliar language filled with clicks, inhalations, and singsongy words that make it sound almost musical. The aroma of unfamiliar spices and tropical fruit mixes with the wharf-side smells of fish, tar and canvas.
+
+Beyond all that, Port Nyanzaru is an explosion of colour. Buildings are painted in bright shades of blue, green, orange and salmon pink, or their walls are adorned with murals portraying giant reptiles and mythical heroes. Every building sports baskets and clay urns of colourful flowers or is draped in leafy, flowering vines. Minstrels in bright clothing adorned with feathers and shells perform on street corners. Multicoloured pennants and sun awnings flutter atop the city walls. A crowd of children dressed in feathered hats and capes race past you, squealing in delighted terror as a street performer costumed as a big-toothed lizard stomps and roars behind them. The whole city seems to be bustling, sweating, laughing and singing.
+
+
+> [!hint] Stat block
+> Beyond all that, Port Nyanzaru is an explosion of colour. Buildings are painted in bright shades of blue, green, orange and salmon pink, or their walls are adorned with murals portraying giant reptiles and mythical heroes. Every building sports baskets and clay urns of colourful flowers or is draped in leafy, flowering vines. Minstrels in bright clothing adorned with feathers and shells perform on street corners. Multicoloured pennants and sun awnings flutter atop the city walls. A crowd of children dressed in feathered hats and capes race past you, squealing in delighted terror as a street performer costumed as a big-toothed lizard stomps and roars behind them. The whole city seems to be bustling, sweating, laughing and singing.
